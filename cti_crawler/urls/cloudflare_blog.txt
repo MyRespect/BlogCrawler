@@ -1,0 +1,15 @@
+/per-origin-host-header-override/
+/introducing-transform-rules-with-url-rewriting-at-the-edge/
+/jonathon-dixon-why-i-joined-cloudflare/
+/the-teams-dashboard-home/
+/how-to-execute-an-object-file-part-2/
+/durable-objects-open-beta/
+/cloudflare-waf-is-recognized-as-customers-choice-for-2021/
+/zero-trust-with-managed-devices/
+/account-compromise-security-overview/
+/cloudflare-pages-ga/
+/restream-with-stream-connect/
+/developers-developers-developers/
+/observability-ecosystem/
+/location-based-personalization-using-workers/
+/developer-week-challenges/
